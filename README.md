@@ -27,20 +27,3 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
-<p align="left">
-  <a href="https://github.com/kennethbunker/kennethbunker">
-    <img src="https://komarev.com/ghpvc/?username=kennethbunker" alt="page views" />
-  </a>
-  <a href="https://macropower.readthedocs.io/en/latest">
-    <img alt="Read the Docs" src="https://img.shields.io/readthedocs/kennethbunker?logo=read-the-docs">
-  </a>
-  <a href="https://stackoverflow.com/users/19762533/kenneth">
-    <img alt="Stack Exchange reputation" src="https://img.shields.io/stackexchange/stackoverflow/r/19762533?color=orange&label=reputation&logo=stackoverflow">
-  </a>
-  <a href="https://reddit.com/u/kennethbunker">
-    <img alt="Reddit User Karma" src="https://img.shields.io/reddit/user-karma/combined/kennethbunker?label=karma&logo=reddit">
-  </a>
-  <a href="https://github.com/kennethbunker?tab=followers">
-    <img alt="GitHub followers" src="https://img.shields.io/github/followers/kennethbunker?color=green&logo=github">
-  </a>
-</p>
