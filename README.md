@@ -26,7 +26,7 @@
 [![Orcid](https://img.shields.io/badge/orcid-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/my-orcid?orcid=0000-0002-4579-6132)
 [![Academia](https://img.shields.io/badge/Academia-fff?style=for-the-badge&logo=academia&logoColor=black)](https://uss.academia.edu/KennethBunker/)
 [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://www.twitter.com/kennethbunker)
-
+[![Google Scholar](https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white)](https://scholar.google.cl/citations?user=kFHaW6wAAAAJ&hl=en)
 
 ## Languages and tools:
 
