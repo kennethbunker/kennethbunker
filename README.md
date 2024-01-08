@@ -4,8 +4,6 @@
 - I am a political scientist
 - I live in Santiago, Chile
 
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kabunker@gmail.com)
-
 ## You can find me at ...
 
 <a href="https://tresquintos.cl/"><img src="https://tresquintos.cl/images/pc.png" alt="tq" height="40">
