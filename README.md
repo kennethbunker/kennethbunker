@@ -13,9 +13,18 @@
 <code><img height="40" src="https://politicotechglobal.com/images/GlobeWhite.png"></code>
 <code><img height="40" href="https://labdemgob.github.io" src="https://labdemgob.github.io/images/logo.png"></code>
 
-<p><a href="https://tresquintos.cl/images/pc.png">
+<p><a href="https://tresquintos.cl/">
 <img src="https://tresquintos.cl/images/pc.png" alt="tq" height="40">
 </a></p>
+
+<p><a href="https://politicotechglobal.com/">
+<img src="https://politicotechglobal.com/images/GlobeWhite.png" alt="tq" height="40">
+</a></p>
+
+<p><a href="https://labdemgob.github.io/">
+<img src="https://labdemgob.github.io/images/logo.png" alt="tq" height="40">
+</a></p>
+
 
 ## You can also find me at ...
 [![Kaggle](https://im.shields.io/badge/Kaggle-blue?logo=kaggle&logoColor=white&style=for-the-badge)](https://www.kaggle.com/kennethbunker)
