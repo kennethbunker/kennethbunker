@@ -13,10 +13,12 @@
 <code><img height="40" src="https://politicotechglobal.com/images/GlobeWhite.png"></code>
 <code><img height="40" href="https://labdemgob.github.io" src="https://labdemgob.github.io/images/logo.png"></code>
 
-
+<p><a href="https://tresquintos.cl/images/pc.png">
+<img src="https://tresquintos.cl/images/pc.png" alt="tq" width="100" height="132">
+</a></p>
 
 ## You can also find me at ...
-[![Kaggle](https://img.shields.io/badge/Kaggle-blue?logo=kaggle&logoColor=white&style=for-the-badge)](https://www.kaggle.com/kennethbunker)
+[![Kaggle](https://im.shields.io/badge/Kaggle-blue?logo=kaggle&logoColor=white&style=for-the-badge)](https://www.kaggle.com/kennethbunker)
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@kennethbunker)
 [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/19762533/kenneth)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kenneth-bunker/)
