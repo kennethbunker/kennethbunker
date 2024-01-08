@@ -28,20 +28,20 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
 <p align="left">
-  <a href="https://github.com/MacroPower/MacroPower">
-    <img src="https://komarev.com/ghpvc/?username=macropower" alt="page views" />
+  <a href="https://github.com/kennethbunker/kennethbunker">
+    <img src="https://komarev.com/ghpvc/?username=kennethbunker" alt="page views" />
   </a>
   <a href="https://macropower.readthedocs.io/en/latest">
-    <img alt="Read the Docs" src="https://img.shields.io/readthedocs/macropower?logo=read-the-docs">
+    <img alt="Read the Docs" src="https://img.shields.io/readthedocs/kennethbunker?logo=read-the-docs">
   </a>
   <a href="https://stackoverflow.com/users/4868262">
     <img alt="Stack Exchange reputation" src="https://img.shields.io/stackexchange/stackoverflow/r/4868262?color=orange&label=reputation&logo=stackoverflow">
   </a>
-  <a href="https://reddit.com/u/macropower">
-    <img alt="Reddit User Karma" src="https://img.shields.io/reddit/user-karma/combined/macropower?label=karma&logo=reddit">
+  <a href="https://reddit.com/u/kennethbunker">
+    <img alt="Reddit User Karma" src="https://img.shields.io/reddit/user-karma/combined/kennethbunker?label=karma&logo=reddit">
   </a>
-  <a href="https://github.com/MacroPower?tab=followers">
-    <img alt="GitHub followers" src="https://img.shields.io/github/followers/MacroPower?color=green&logo=github">
+  <a href="https://github.com/kennethbunker?tab=followers">
+    <img alt="GitHub followers" src="https://img.shields.io/github/followers/kennethbunker?color=green&logo=github">
   </a>
   <a href="https://github.com/abhisheknaiidu/awesome-github-profile-readme">
     <img alt="Awesome" src="https://awesome.re/mentioned-badge.svg">
