@@ -14,7 +14,7 @@
 <code><img height="40" href="https://labdemgob.github.io" src="https://labdemgob.github.io/images/logo.png"></code>
 
 <p><a href="https://tresquintos.cl/images/pc.png">
-<img src="https://tresquintos.cl/images/pc.png" alt="tq" width="100" height="132">
+<img src="https://tresquintos.cl/images/pc.png" alt="tq" height="40">
 </a></p>
 
 ## You can also find me at ...
