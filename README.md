@@ -9,24 +9,20 @@
 
 ## You can also find me at ...
 
-<code><img height="40" src="https://tresquintos.cl/images/pc.png"></code>
-<code><img height="40" src="https://politicotechglobal.com/images/GlobeWhite.png"></code>
-<code><img height="40" href="https://labdemgob.github.io" src="https://labdemgob.github.io/images/logo.png"></code>
-
-<p><a href="https://tresquintos.cl/">
+<a href="https://tresquintos.cl/">
 <img src="https://tresquintos.cl/images/pc.png" alt="tq" height="40">
-</a></p>
+</a>
 
-<p><a href="https://politicotechglobal.com/">
+<a href="https://politicotechglobal.com/">
 <img src="https://politicotechglobal.com/images/GlobeWhite.png" alt="tq" height="40">
-</a></p>
+</a>
 
-<p><a href="https://labdemgob.github.io/">
+<a href="https://labdemgob.github.io/">
 <img src="https://labdemgob.github.io/images/logo.png" alt="tq" height="40">
-</a></p>
+</a>
 
 
-## You can also find me at ...
+## Check this out:
 [![Kaggle](https://im.shields.io/badge/Kaggle-blue?logo=kaggle&logoColor=white&style=for-the-badge)](https://www.kaggle.com/kennethbunker)
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@kennethbunker)
 [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/19762533/kenneth)
