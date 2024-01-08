@@ -34,7 +34,7 @@
   <a href="https://macropower.readthedocs.io/en/latest">
     <img alt="Read the Docs" src="https://img.shields.io/readthedocs/kennethbunker?logo=read-the-docs">
   </a>
-  <a href="https://stackoverflow.com/users/4868262">
+  <a href="https://stackoverflow.com/users/19762533/kenneth)">
     <img alt="Stack Exchange reputation" src="https://img.shields.io/stackexchange/stackoverflow/r/4868262?color=orange&label=reputation&logo=stackoverflow">
   </a>
   <a href="https://reddit.com/u/kennethbunker">
