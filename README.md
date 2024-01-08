@@ -10,6 +10,9 @@
 ## You can also find me at ...
 
 <code><img height="40" src="https://tresquintos.cl/images/pc.png"></code>
+<code><img height="40" src="https://politicotechglobal.com/images/GlobeWhite.png"></code>
+
+
 
 ## You can also find me at ...
 [![Kaggle](https://img.shields.io/badge/Kaggle-blue?logo=kaggle&logoColor=white&style=for-the-badge)](https://www.kaggle.com/kennethbunker)
