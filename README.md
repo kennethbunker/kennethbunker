@@ -11,6 +11,7 @@
 
 <code><img height="40" src="https://tresquintos.cl/images/pc.png"></code>
 <code><img height="40" src="https://politicotechglobal.com/images/GlobeWhite.png"></code>
+<code><img height="40" src="https://labdemgob.github.io/images/logo.png"></code>
 
 
 
