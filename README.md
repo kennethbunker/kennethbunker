@@ -18,7 +18,7 @@
   <img src="https://labdemgob.github.io/images/logo.png" alt="tq" height="40">
 </a>
 
-[![Medium](https://labdemgob.github.io/){:height="10%" width="10%"}](https://labdemgob.github.io/images/logo.png)
+[![Medium](https://labdemgob.github.io/images/logo.png){:height="10%" width="10%"}}](https://labdemgob.github.io/)
 
 ## Check this out:
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@kennethbunker)
