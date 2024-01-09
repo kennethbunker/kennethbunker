@@ -6,12 +6,14 @@
 
 ## You can find me at ...
 
-<a href="https://tresquintos.cl/" <img src="https://tresquintos.cl/images/pc.png" alt="tq" height="40">
+<a href="https://tresquintos.cl/">
+  <img src="https://tresquintos.cl/images/pc.png" alt="tq" height="40">
 </a>
-
-<a href="https://politicotechglobal.com/"><img src="https://politicotechglobal.com/images/GlobeWhite.png" alt="tq" height="40">
+<a href="https://politicotechglobal.com/">
+  <img src="https://politicotechglobal.com/images/GlobeWhite.png" alt="tq" height="40">
 </a>
-<a href="https://labdemgob.github.io/"><img src="https://labdemgob.github.io/images/logo.png" alt="tq" height="40">
+<a href="https://labdemgob.github.io/">
+  <img src="https://labdemgob.github.io/images/logo.png" alt="tq" height="40">
 </a>
 
 
