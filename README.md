@@ -9,16 +9,12 @@
 <a href="https://tresquintos.cl/">
   <img src="https://tresquintos.cl/images/pc.png" alt="tq" height="40">
 </a>
-
 <a href="https://politicotechglobal.com/">
   <img src="https://politicotechglobal.com/images/GlobeWhite.png" alt="tq" height="40">
 </a>
-
 <a href="https://labdemgob.github.io/">
   <img src="https://labdemgob.github.io/images/logo.png" alt="tq" height="40">
 </a>
-
-[![Medium](https://labdemgob.github.io/images/logo.png){:height="10%" width="10%"}](https://labdemgob.github.io/)
 
 ## Check this out:
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@kennethbunker)
