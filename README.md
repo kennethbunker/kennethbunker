@@ -14,9 +14,9 @@ My research focuses on electoral systems, party systems, and electoral forecasti
   <img src="https://kennethbunker.github.io/cpld/logo.png" alt="CPLD" height="80" align="right">
 </a>
 
-The **Chilean Political Landscape Dataset (CPLD)** is a longitudinal dataframe of district-level electoral outcomes spanning four decades of Chilean democracy (1989–2024). It contains standardized measures of party system fragmentation, ideological orientation, and institutional change across legislative, regional, and municipal contests.
+The **Chilean Political Landscape Dataset (CPLD)** is the first comprehensive longitudinal database of its kind, consolidating district-level electoral outcomes across more than three decades of Chilean democracy (1989–2024). It addresses a critical gap in Chilean political research—much of the existing literature relied on national aggregates that obscured underlying dynamics that only district-level data can reveal.
 
-The dataset includes 5,300+ observations and 42 variables covering measures such as effective number of parties (ENPv/ENPs), disproportionality indices (Gallagher, Loosemore-Hanby), ideological polarization (Dalton index), and party nationalization scores. Data formats are optimized for R (tidyverse) and Python (pandas) workflows.
+Version 1.0 contains 5,301 observations across 42 variables covering legislative elections (Chamber of Deputies, Senate), regional elections (Governors, regional councils), municipal elections (Mayors, municipal councils), and Constitutional Conventions. Variables include effective number of parties (ENPv/ENPs), disproportionality indices (Gallagher, Loosemore-Hanby, Rae), ideological polarization (Dalton index), party nationalization scores (Mainwaring-Jones, Chhibber-Kollman), and ethnic fractionalization measures.
 
 [![DOI](https://img.shields.io/badge/DOI-10.7910/DVN/NGRY3R-blue?style=flat-square)](https://dataverse.harvard.edu/citation?persistentId=doi:10.7910/DVN/NGRY3R)
 [![GitHub](https://img.shields.io/badge/GitHub-cpld-181717?style=flat-square&logo=github)](https://kennethbunker.github.io/cpld/)
@@ -28,7 +28,11 @@ library(tidyverse)
 cpld <- read_csv("cpld_1989_2024.csv")
 ```
 
-**Related publication:** Bunker, Kenneth. 2025. "Decades of democracy: insights into the political landscape of Chile." *Humanities and Social Sciences Communications* 12, 1911. [doi](https://doi.org/10.1057/s41599-025-06180-1)
+**Citation:**
+
+> Bunker, Kenneth. 2025. "Chilean Political Landscape Dataset (CPLD)". Harvard Dataverse, V1. doi: [10.7910/DVN/NGRY3R](https://doi.org/10.7910/DVN/NGRY3R)
+>
+> Bunker, Kenneth. 2025. "Decades of democracy: insights into the political landscape of Chile." *Humanities and Social Sciences Communications* 12, 1911. doi: [10.1057/s41599-025-06180-1](https://doi.org/10.1057/s41599-025-06180-1)
 
 ---
 
