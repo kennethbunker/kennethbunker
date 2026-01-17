@@ -1,27 +1,28 @@
 # Kenneth Bunker
 
-**Political Scientist & Author** · Santiago, Chile
+**Political Scientist** · Santiago, Chile
 
-I am an academic, consultant, and columnist. I serve as Associate Professor and Director of the [Democracy and Government Lab](https://labdemgob.github.io/) at Universidad San Sebastián. I also work with organizations providing solutions to investors, stakeholders, and risk analysts worldwide.
+Associate Professor and Director of the [Democracy and Government Lab](https://labdemgob.github.io/) at Universidad San Sebastián. PhD in Political Science from The London School of Economics.
 
-PhD in Political Science from The London School of Economics. My research focuses on electoral systems, party systems, and electoral forecasting.
+My research focuses on electoral systems, party systems, and electoral forecasting. I develop open datasets and forecasting models for political science research.
 
 ---
 
-### 📚 New Book
+### 📊 Chilean Political Landscape Dataset (CPLD)
 
-<a href="https://link.springer.com/book/9783031964626">
-  <img src="https://kennethbunker.github.io/img/book1.png" alt="Chile's Transformation Amidst Crisis: The Theseus Paradox" width="120" align="left" style="margin-right: 15px;">
-</a>
+A comprehensive longitudinal dataset covering **35 years of Chilean electoral data** (1989–2024), including election results, party systems, and coalition dynamics.
 
-**Chile's Transformation Amidst Crisis: The Theseus Paradox**  
-Palgrave Macmillan, 2025
+[![DOI](https://img.shields.io/badge/DOI-10.7910/DVN/NGRY3R-blue?style=flat-square)](https://dataverse.harvard.edu/citation?persistentId=doi:10.7910/DVN/NGRY3R)
+[![GitHub](https://img.shields.io/badge/GitHub-cpld-181717?style=flat-square&logo=github)](https://kennethbunker.github.io/cpld/)
+[![Documentation](https://img.shields.io/badge/Docs-Website-green?style=flat-square)](https://kennethbunker.github.io/cpld/)
 
-A comprehensive analysis of Chile's political transformation through decades of democratic change and institutional evolution.
+```r
+# Load CPLD dataset
+library(tidyverse)
+cpld <- read_csv("cpld_1989_2024.csv")
+```
 
-[Buy on Springer](https://link.springer.com/book/9783031964626) · [Buy on Amazon](https://www.amazon.com/author/kennethbunker)
-
-<br clear="left"/>
+**Related publication:** "Decades of democracy: insights into the political landscape of Chile" — *Nature: Humanities and Social Sciences Communications* (2025) [doi](https://doi.org/10.1057/s41599-025-06180-1)
 
 ---
 
@@ -29,26 +30,19 @@ A comprehensive analysis of Chile's political transformation through decades of 
 
 <table>
   <tr>
-    <td align="center" width="33%">
-      <a href="https://kennethbunker.github.io/cpld/">
-        <img src="https://kennethbunker.github.io/cpld/logo.png" alt="CPLD" height="60"><br>
-        <strong>CPLD</strong>
-      </a><br>
-      <sub>Chilean Political Landscape Dataset — 35 years of electoral data</sub>
-    </td>
-    <td align="center" width="33%">
+    <td align="center" width="50%">
       <a href="https://labdemgob.github.io/">
         <img src="https://labdemgob.github.io/images/logo.png" alt="LabDemGob" height="60"><br>
         <strong>LabDemGob</strong>
       </a><br>
       <sub>Democracy and Government Lab at USS</sub>
     </td>
-    <td align="center" width="33%">
+    <td align="center" width="50%">
       <a href="https://tresquintos.cl/">
         <img src="https://tresquintos.cl/images/pc.png" alt="Tresquintos" height="60"><br>
         <strong>Tresquintos</strong>
       </a><br>
-      <sub>Political consultancy & electoral analysis</sub>
+      <sub>Electoral analysis & forecasting</sub>
     </td>
   </tr>
 </table>
@@ -76,21 +70,12 @@ A comprehensive analysis of Chile's political transformation through decades of 
 
 ---
 
-### 📰 In the Press
-
-Featured in **TIME**, **The Economist**, **The Guardian**, **BBC**, **Le Monde**, **Deutsche Welle**, **Wall Street Journal**, **Forbes**, **El País**, **CNN**, **Bloomberg** and more.
-
-[See full press coverage →](https://kennethbunker.github.io/press)
-
----
-
 ### 🔗 Connect
 
-[![Website](https://img.shields.io/badge/Website-kennethbunker.github.io-blue?style=flat-square)](https://kennethbunker.github.io/)
 [![Google Scholar](https://img.shields.io/badge/Google_Scholar-4285F4?style=flat-square&logo=google-scholar&logoColor=white)](https://scholar.google.cl/citations?user=kFHaW6wAAAAJ&hl=en)
-[![ResearchGate](https://img.shields.io/badge/ResearchGate-00CCBB?style=flat-square&logo=ResearchGate&logoColor=white)](https://www.researchgate.net/profile/Kenneth-Bunker)
+[![Harvard Dataverse](https://img.shields.io/badge/Harvard_Dataverse-C41230?style=flat-square)](https://dataverse.harvard.edu/citation?persistentId=doi:10.7910/DVN/NGRY3R)
 [![ORCID](https://img.shields.io/badge/ORCID-A6CE39?style=flat-square&logo=orcid&logoColor=white)](https://orcid.org/0000-0002-4579-6132)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kennethbunker/)
-[![X](https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white)](https://twitter.com/kennethbunker)
-[![Medium](https://img.shields.io/badge/Medium-12100E?style=flat-square&logo=medium&logoColor=white)](https://medium.com/@kennethbunker)
+[![ResearchGate](https://img.shields.io/badge/ResearchGate-00CCBB?style=flat-square&logo=ResearchGate&logoColor=white)](https://www.researchgate.net/profile/Kenneth-Bunker)
 [![Academia](https://img.shields.io/badge/Academia-fff?style=flat-square&logo=academia&logoColor=black)](https://uss.academia.edu/KennethBunker/)
+[![Website](https://img.shields.io/badge/Website-kennethbunker.github.io-blue?style=flat-square)](https://kennethbunker.github.io/)
+[![X](https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white)](https://twitter.com/kennethbunker)
