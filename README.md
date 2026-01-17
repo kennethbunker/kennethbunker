@@ -12,6 +12,12 @@
 <a href="https://labdemgob.github.io/">
   <img src="https://labdemgob.github.io/images/logo.png" alt="tq" height="40">
 </a>
+<a href="https://kennethbunker.github.io/cpld/">
+  <img src="https://kennethbunker.github.io/cpld/logo.png" alt="tq" height="40">
+</a>
+
+https://kennethbunker.github.io/cpld/logo.png
+
 
 ## Check this out:
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@kennethbunker)
